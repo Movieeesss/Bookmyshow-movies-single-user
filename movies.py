@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 # --- CONFIGURATION (Keep your keys safe!) ---
 TOKEN = "8825463319:AAH285s09kaeYMTXsPCEd41gjiTA-GQbL7g"
-CHAT_ID = "118541726"
+CHAT_ID = "8095698350"
 API_KEY = "5a50f090-2bd7-442f-b0c6-3888ee7620c5"
 
 def get_trichy_movies():
