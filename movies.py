@@ -3,9 +3,9 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # --- CONFIGURATION (Keep your keys safe!) ---
-TOKEN = "8745585993:AAE2zRpimM9_VW9YK0I7FhDmvHb7iy1tw9A"
-CHAT_ID = "1115358053"
-API_KEY = "45b4f3e2-b8db-473c-8b38-374fa0b0febe"
+TOKEN = "8825463319:AAH285s09kaeYMTXsPCEd41gjiTA-GQbL7g"
+CHAT_ID = "8095698350"
+API_KEY = "5a50f090-2bd7-442f-b0c6-3888ee7620c5"
 
 def get_trichy_movies():
     target_url = "https://in.bookmyshow.com/explore/movies-trichy"
